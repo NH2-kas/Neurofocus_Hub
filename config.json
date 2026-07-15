@@ -1,0 +1,6 @@
+{
+    "students": ["Алиса", "Боб", "Чарли", "Диана", "Ева"],
+    "alert_threshold": 30,
+    "session_duration_minutes": 10,
+    "sample_interval_seconds": 5
+}
